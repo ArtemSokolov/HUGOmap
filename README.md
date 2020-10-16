@@ -1,4 +1,4 @@
-# HUGOmap: a script for wrangling an Ensembl ID -> HUGO mapping
+## HUGOmap: a script for wrangling an Ensembl ID -> HUGO mapping
 
 Prerequisites: [tidyverse](https://www.tidyverse.org/)
 
